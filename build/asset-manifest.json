@@ -4,12 +4,12 @@
     "static/js/1.69807320.chunk.js": "/static/js/1.69807320.chunk.js",
     "main.css": "/static/css/main.df9964b8.chunk.css",
     "main.js": "/static/js/main.82bba6c4.chunk.js",
-    "runtime-main.js": "/static/js/runtime-main.41761ded.js",
+    "runtime-main.js": "/static/js/runtime-main.9f6608e7.js",
     "static/js/4.2a996554.chunk.js": "/static/js/4.2a996554.chunk.js",
     "static/js/5.d4b17a95.chunk.js": "/static/js/5.d4b17a95.chunk.js",
     "static/js/6.e3e764a1.chunk.js": "/static/js/6.e3e764a1.chunk.js",
-    "static/css/7.b9eb45b9.chunk.css": "/static/css/7.b9eb45b9.chunk.css",
-    "static/js/7.55ec252d.chunk.js": "/static/js/7.55ec252d.chunk.js",
+    "static/css/7.6087abea.chunk.css": "/static/css/7.6087abea.chunk.css",
+    "static/js/7.fa9a4b6b.chunk.js": "/static/js/7.fa9a4b6b.chunk.js",
     "static/css/8.28da29a1.chunk.css": "/static/css/8.28da29a1.chunk.css",
     "static/js/8.41e51d78.chunk.js": "/static/js/8.41e51d78.chunk.js",
     "static/css/9.73c22d98.chunk.css": "/static/css/9.73c22d98.chunk.css",
@@ -41,7 +41,7 @@
     "static/media/wallet.94a9e8f6.webp": "/static/media/wallet.94a9e8f6.webp"
   },
   "entrypoints": [
-    "static/js/runtime-main.41761ded.js",
+    "static/js/runtime-main.9f6608e7.js",
     "static/js/4.2a996554.chunk.js",
     "static/css/main.df9964b8.chunk.css",
     "static/js/main.82bba6c4.chunk.js"
